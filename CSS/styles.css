@@ -41,5 +41,11 @@ figcaption {
 
 #logo {
   background-color: aqua;
+}
+
+/*Descentent Selector*/
+
+#logo h1 {
+
 
 }
