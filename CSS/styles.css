@@ -30,4 +30,6 @@ figcaption {
 
 /*Class Selector */
 
-  .milk-text { /* Select elements with clss milk-text */}
+  .milk-text { /* Select elements with clss milk-text */
+    font: bold 2.6em 'Elsie Swash Caps', cursive;
+  }
